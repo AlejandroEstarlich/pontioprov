@@ -1,4 +1,5 @@
-var form = document.getElementById('form');
-function click(){
-  alert('hola');
-}
+$(document).ready(function(){
+  function click(){
+    alert('hola');
+  }
+});
